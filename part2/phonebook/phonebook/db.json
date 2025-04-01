@@ -1,0 +1,49 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "id": "7",
+      "name": "sravani",
+      "number": "658699"
+    },
+    {
+      "id": "8",
+      "name": "vaishu",
+      "number": "6556869"
+    },
+    {
+      "id": "9",
+      "name": "amma",
+      "number": "243252"
+    },
+    {
+      "id": "10",
+      "name": "dad",
+      "number": "3454352"
+    },
+    {
+      "id": "5860",
+      "name": "rakshithuuu",
+      "number": "324323424"
+    },
+    {
+      "id": "c248",
+      "name": "sravaniRakshith",
+      "number": "432894u2"
+    }
+  ]
+}
